@@ -24,7 +24,7 @@ if __name__ == "__main__":
     try:
         path = sys.argv[1]
     except:
-        path = 'resources/ekko.jpg'
+        path = 'resources/bella.jpg'
 
     os.makedirs('example_images', exist_ok=True)
 
