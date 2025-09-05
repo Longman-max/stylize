@@ -15,7 +15,7 @@ defaults = render(image)
 
 Our Test Subject, my dog bella | Default stylization `render(image)`
 ------------- | -------------
-![Bella](/resources/bella.jpg?raw=true "Bella looking confused")  | ![Bella](/example_images/more_detail.png?raw=true "Default stylization with stylize")
+![Bella](/resources/bella-small.jpg?raw=true "Bella looking confused")  | ![Bella](/example_images/more_detail.png?raw=true "Default stylization with stylize")
 
 Abstract `render(image,depth=4)` | Smooth `render(image,iterations=25)`
 ------------- | -------------
